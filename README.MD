@@ -1,1 +1,1 @@
-https://github.com/ryzone1/ono-tebe-nado-fd
+https://github.com/ryzone1/ono-tebe-nado
